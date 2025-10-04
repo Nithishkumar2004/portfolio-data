@@ -1,0 +1,31 @@
+category,skill
+Languages,JavaScript
+Languages,TypeScript
+Languages,Python
+Languages,Java
+Languages,C
+Languages,SQL
+Frontend,React
+Frontend,Vite
+Frontend,Node.js
+Frontend,Tailwind CSS
+Frontend,Bootstrap CSS
+Frontend,HTML5
+Frontend,CSS3
+Backend,Node.js
+Backend,Express
+Backend,Django
+Backend,Spring Boot
+Backend,REST APIs
+Backend,GraphQL
+Databases,PostgreSQL
+Databases,MongoDB
+Databases,MySQL
+Databases,Redis
+Databases,Firebase
+Tools & Others,Git
+Tools & Others,Docker
+Tools & Others,AWS
+Tools & Others,CI/CD
+Tools & Others,Agile
+Tools & Others,Testing
